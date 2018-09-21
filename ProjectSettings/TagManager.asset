@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - mogura1
+  - mogura2
+  - holeparent
+  - mogura3
   layers:
   - Default
   - TransparentFX
