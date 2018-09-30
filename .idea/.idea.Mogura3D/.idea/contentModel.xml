@@ -5,14 +5,45 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="game" t="Include">
+          <e p="ballenemy.cs" t="Include" />
+          <e p="ballmy.cs" t="Include" />
+          <e p="effects" t="Include">
+            <e p="Cartoon FX" t="Include">
+              <e p="CartoonFX Free.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="CFX_AutoDestructShuriken.cs" t="Include" />
+                <e p="CFX_AutoRotate.cs" t="Include" />
+                <e p="CFX_LightFlicker.cs" t="Include" />
+                <e p="CFX_LightIntensityFade.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="CFX3 Multiply Color.shader" t="Include" />
+                <e p="CFXM_MobileParticleAdd_Alpha8.shader" t="Include" />
+              </e>
+            </e>
+          </e>
           <e p="gameMgr.cs" t="Include" />
           <e p="mogura.cs" t="Include" />
+          <e p="npcmgr.cs" t="Include" />
           <e p="shader" t="Include">
             <e p="holeSurface.shader" t="Include" />
             <e p="toon.shader" t="Include" />
           </e>
         </e>
+        <e p="Network" t="Include">
+          <e p="NetworkDef.cs" t="Include" />
+          <e p="PacketQueue.cs" t="Include" />
+          <e p="TransportTcp.cs" t="Include" />
+        </e>
+        <e p="result" t="Include">
+          <e p="dynamicSprite.cs" t="Include" />
+          <e p="OnlinesceneMgr.cs" t="Include" />
+          <e p="sceneMgr.cs" t="Include" />
+        </e>
         <e p="shareData.cs" t="Include" />
+        <e p="title" t="Include">
+          <e p="eventCtl.cs" t="Include" />
+        </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="Mogura3D.sln" t="IncludeFlat" />

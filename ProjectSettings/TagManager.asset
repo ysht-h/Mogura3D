@@ -8,6 +8,9 @@ TagManager:
   - mogura2
   - holeparent
   - mogura3
+  - ball
+  - FxTemporaire
+  - npc
   layers:
   - Default
   - TransparentFX

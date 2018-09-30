@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4631789414280048}
   - component: {fileID: 33349001002206204}
   - component: {fileID: 23031509185468434}
-  - component: {fileID: 95647571131604954}
+  - component: {fileID: 95459795085040756}
   m_Layer: 0
   m_Name: mogura2
   m_TagString: mogura2
@@ -84,7 +84,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1612300917056696}
   m_Mesh: {fileID: 4300000, guid: 6cd6764beda254683899c96dd4f76ea8, type: 3}
---- !u!95 &95647571131604954
+--- !u!95 &95459795085040756
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
@@ -94,7 +94,7 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 6cd6764beda254683899c96dd4f76ea8, type: 3}
   m_Controller: {fileID: 9100000, guid: 7e28bb782384c49199867d9743b02d74, type: 2}
-  m_CullingMode: 0
+  m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
